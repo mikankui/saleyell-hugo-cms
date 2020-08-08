@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SALE YELL</title>
+    <link>https://saleyell.netlify.app/post/</link>
+    <description>Recent content in Posts on SALE YELL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 04 Jan 2017 15:04:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://saleyell.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A beginners’ guide to brewing with Chemex</title>
+      <link>https://saleyell.netlify.app/post/brewing-chemex/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>https://saleyell.netlify.app/post/brewing-chemex/</guid>
+      <description>This week we’ll take a look at all the steps required to make astonishing coffee with a Chemex at home.</description>
+    </item>
+    
+    <item>
+      <title>Just in: small batch of Jamaican Blue Mountain in store next week</title>
+      <link>https://saleyell.netlify.app/post/jamaica-blue/</link>
+      <pubDate>Wed, 04 Jan 2017 15:04:10 +0000</pubDate>
+      
+      <guid>https://saleyell.netlify.app/post/jamaica-blue/</guid>
+      <description>We expect the shipment of a limited quantity of green beans next Monday.</description>
+    </item>
+    
+    <item>
+      <title>Making sense of the SCAA’s new Flavor Wheel</title>
+      <link>https://saleyell.netlify.app/post/making-sense/</link>
+      <pubDate>Sat, 17 Dec 2016 15:04:10 +0000</pubDate>
+      
+      <guid>https://saleyell.netlify.app/post/making-sense/</guid>
+      <description>The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely.</description>
+    </item>
+    
+  </channel>
+</rss>

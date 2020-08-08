@@ -9,9 +9,6 @@ paginate = 6
 disqusShortname = ""
 canonifyURLs = true
 
-staticDir = ["site/static"]
-contentDir = ["site/content"]
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 

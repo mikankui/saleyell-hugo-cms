@@ -3,15 +3,201 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saleyell.netlify.app/categories/</loc>
+    <loc>https://saleyell.netlify.app/about/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/contact/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://saleyell.netlify.app/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/android-and-gmaing/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/game/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/go-language/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-1/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-10/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-11/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-12/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-13/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-2/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-3/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-4/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-5/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-6/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-7/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-8/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/blog/post-9/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/html/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/html/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/html-css/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/new/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/photos/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/programming-language/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/python/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/python/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tags/react/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://saleyell.netlify.app/tags/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/categories/web-design/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/tech/</loc>
+    <lastmod>2018-11-14T19:02:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/post/brewing-chemex/</loc>
+    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/post/jamaica-blue/</loc>
+    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/post/</loc>
+    <lastmod>2017-01-04T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/post/making-sense/</loc>
+    <lastmod>2016-12-17T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/products/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saleyell.netlify.app/values/</loc>
   </url>
   
 </urlset>
