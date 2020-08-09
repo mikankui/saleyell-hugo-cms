@@ -11,7 +11,6 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "節約"
   - "セール"
 tags:
   - "アマゾン"
