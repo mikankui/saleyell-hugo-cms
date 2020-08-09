@@ -1,0 +1,109 @@
+@charset "utf-8";
+/*
+ * SALE YELL CSS
+ */
+
+/* =====================
+  Override
+===================== */
+
+/*  _typography.scss
+--------------------- */
+body {
+  line-height: 1.75;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: .1em;
+}
+
+p, .paragraph {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+h1, .h1{
+  font-size: 36px;
+}
+
+h2, .h2{
+  font-size: 28px;
+}
+
+h3, .h3{
+  font-size: 22px;
+}
+
+h4, .h4{
+  font-size: 18px;
+}
+
+h5, .h5{
+  font-size: 16px;
+}
+
+h6, .h6{
+  font-size: 16px;
+}
+
+/*  _main.scss
+--------------------- */
+
+/* markdown style */
+.content {
+  * {
+    margin-bottom: 24px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 32px;
+  }
+  h1,
+  h2,
+  h3 {
+    margin-top: 64px;
+  }
+  h2 {
+    padding-bottom: .5em;
+    border-bottom: solid 3px $primary-color;
+  }
+}
+
+/*  _common.scss
+--------------------- */
+img {
+  vertical-align: middle;
+  border: 0;
+  max-width: 100%;
+}
+
+ /* =====================
+  Add CSS
+===================== */
+
+/*  TOC
+--------------------- */
+.main-content__toc {
+  padding: 16px;
+  border: 1px solid gray;
+  header div {
+    font-weight: bold;
+  }
+  ul {
+    font-size: 14px;
+  }
+  ul li {
+    line-height: 2;
+    margin-left: 1em;
+  }
+  a {
+    color: gray;
+  }
+}
+#TableOfContents > ul > li {
+  list-style: none;
+}
