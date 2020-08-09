@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saleyell.netlify.app/about/</loc>
+    <loc>https://saleyell.netlify.app/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saleyell.netlify.app/blog/</loc>
+    <loc>https://saleyell.netlify.app/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://saleyell.netlify.app/</loc>
+    <loc>https://saleyell.netlify.app/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://saleyell.netlify.app/search/</loc>
+    <loc>https://saleyell.netlify.app/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   

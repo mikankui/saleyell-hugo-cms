@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "このサイトについて"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -13,8 +13,6 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+お得なこと・モノが大好きで、インターネットの世界を日々パトロールしてます。このサイトは、ネットで収集したお得情報を発信するために作りました。
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+お得な情報として、「タイムセール」「NISA」「iDeCo」「キャッシュレス」などなど収取・更新中です！

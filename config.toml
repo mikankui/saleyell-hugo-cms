@@ -47,28 +47,28 @@ canonifyURLs = true
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "SALE YELLとは"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "ブログ"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "問合せ"
   URL = "contact"
   weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "SALE YELLとは"
   URL = "about"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
+  name = "ブログ"
   URL = "blog"
   weight = 2
 
@@ -123,14 +123,4 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
