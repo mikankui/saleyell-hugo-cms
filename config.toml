@@ -124,3 +124,10 @@ link = "https://twitter.com/SaleYell"
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+############################# markup########################
+[markup]
+    [markup.tableOfContents]
+        endLevel = 2
+        ordered = true
+        startLevel = 2

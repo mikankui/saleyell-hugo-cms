@@ -10,7 +10,7 @@
 /*  _typography.scss
 --------------------- */
 body {
-  line-height: 1.75;
+  line-height: 1.5;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: .1em;
@@ -88,22 +88,23 @@ img {
 /*  TOC
 --------------------- */
 .main-content__toc {
-  padding: 16px;
+  padding: 16px ;
   border: 1px solid gray;
-  header div {
+  header {
     font-weight: bold;
   }
-  ul {
-    font-size: 14px;
+  ol {
+    font-size: 14px ;
   }
-  ul li {
-    line-height: 2;
+  ol li {
+    line-height: 0.5 ;
     margin-left: 1em;
   }
   a {
     color: gray;
   }
 }
+
 #TableOfContents > ul > li {
   list-style: none;
 }
