@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>セール</title>
-      <link>https://saleyell.netlify.app/categories/%E3%82%BB%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://saleyell.netlify.app/categories/%E3%82%BB%E3%83%BC%E3%83%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>助成金</title>
       <link>https://saleyell.netlify.app/categories/%E5%8A%A9%E6%88%90%E9%87%91/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://saleyell.netlify.app/categories/%E5%8A%A9%E6%88%90%E9%87%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>セール</title>
+      <link>https://saleyell.netlify.app/categories/%E3%82%BB%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Mon, 28 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://saleyell.netlify.app/categories/%E3%82%BB%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     

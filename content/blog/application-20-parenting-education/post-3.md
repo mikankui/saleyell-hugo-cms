@@ -17,7 +17,7 @@ tags:
   - "教育"
 
 # post type
-type: "featured"
+type: "post"
 ---
 ## 育児と出産に関連する助成
 

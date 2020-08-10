@@ -1,6 +1,6 @@
 ---
 title: "申請でお得に　住まいに関連する助成"
-date: 2019-10-29T10:07:47+06:00
+date: 2019-10-25T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -16,7 +16,7 @@ tags:
   - "住まい"
 
 # post type
-type: "featured"
+type: "post"
 ---
 ## 住まいに関連する助成
 ## 住宅ローン減税

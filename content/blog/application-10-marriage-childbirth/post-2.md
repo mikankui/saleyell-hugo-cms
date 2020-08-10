@@ -1,6 +1,6 @@
 ---
 title: "申請でお得に　結婚と出産に関連する助成"
-date: 2019-10-29T10:07:47+06:00
+date: 2019-10-27T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -17,7 +17,7 @@ tags:
   - "出産"
 
 # post type
-type: "featured"
+type: "post"
 ---
 ## 結婚と出産に関連する助成
 
