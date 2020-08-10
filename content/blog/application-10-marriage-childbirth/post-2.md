@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "blog/application-marriage-childbirth/eye_catch.jpg"
+image: "blog/application-10-marriage-childbirth/eye_catch.jpg"
 
 # meta description
 description: "this is meta description"
